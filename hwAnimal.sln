@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hwAnimal", "hwAnimal\hwAnimal.vcxproj", "{58665EFA-4F0E-43BB-AB3B-F371816B3824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Debug|x64.ActiveCfg = Debug|x64
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Debug|x64.Build.0 = Debug|x64
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Debug|x86.ActiveCfg = Debug|Win32
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Debug|x86.Build.0 = Debug|Win32
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Release|x64.ActiveCfg = Release|x64
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Release|x64.Build.0 = Release|x64
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Release|x86.ActiveCfg = Release|Win32
+		{58665EFA-4F0E-43BB-AB3B-F371816B3824}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04E75BD-2905-4142-A349-49B333E03DF1}
+	EndGlobalSection
+EndGlobal
